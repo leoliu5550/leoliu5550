@@ -13,7 +13,7 @@ Hi there, I'm **Leo Liu**.
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/6b/ff/89/6bff8991c9308a10e5d2baef1153f5fe.gif" />
   
 - 🌱 I’m currently work on object detection model; 
-- 🤔 My interests are Natural Language Processing/Understanding, Computer vision, Reinforcement Learning, etc..;
+- 🤔 My interests are Computer vision, Machine Learning, Statistic, Natural Language Processing/Understanding,  etc..;
 - 💼 I’m pursuing a postgraduate's degree in mathematics;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via leoliu5550@gmail.com to reach me.
