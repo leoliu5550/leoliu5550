@@ -7,6 +7,9 @@
 
 - 📫 How to reach me **leoliu5550@gmail.com**
 
+
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={leoliu5550}&theme={default}
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
