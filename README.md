@@ -5,16 +5,11 @@
 </a>
 <a href="https://www.instagram.com/leoliu5550/">
   <img align="left" alt="Leo's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="[https://www.facebook.com/mehdi.mabrouki1](https://www.facebook.com/?locale=zh_TW)">
-  <img align="left" alt="Mehdi's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 <br />
 <br />
 
 Hi there, I'm **Leo Liu**.
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://giphy.com/gifs/cat-kitten-computer-3oKIPnAiaMCws8nOsE" />
   
 - 👨🏽‍💻 I’m currently an Artificial Intelligence intern with [Vneuron](https://www.vneuron.com/) working on NLP/NLU projects;
 - 🌱 I’m currently object detection; 
