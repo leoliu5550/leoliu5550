@@ -10,7 +10,7 @@
 <br />
 
 Hi there, I'm **Leo Liu**.
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/6b/ff/89/6bff8991c9308a10e5d2baef1153f5fe.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/9c/40/eb/9c40eb371f746929e1cb477da963e7a5.gif" />
   
 - 🌱 I’m currently work on object detection model; 
 - 🤔 My interests are Computer vision, Machine Learning, Statistic, Natural Language Processing/Understanding,  etc..;
