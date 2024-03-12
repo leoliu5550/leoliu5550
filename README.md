@@ -1,5 +1,7 @@
 ### Hey 👋, I'm Leoliu
 
+![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leoliu5550&show_icons=true&hide_border=true)
+
 <a href="https://www.linkedin.com/in/leo-liu-aa83721b3/">
   <img align="left" alt="Leo's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -29,5 +31,4 @@ Hi there, I'm **Leo Liu**.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Leo's github stats](https://github-readme-stats.vercel.app/api?username=leoliu5550&show_icons=true&hide_border=true)
 
